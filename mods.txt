@@ -1,0 +1,56 @@
+client only:
+
+sodium
+sodium/embeddium dynamic lights
+reese's sodium options
+light overlay
+just zoom
+iris shaders
+inventory tweaks
+inventory hud +
+farsight
+dynamic fps
+dark mode everywhere
+crafting tweaks
+better fps - render distance
+better modlist
+mouse tweaks
+mob plaques
+legendary tooltips
+bridging mod
+better third person
+better f3
+eating animation
+better animations collection
+better advancements
+ambient sounds 6
+entity culling
+fix gpu memory leak
+extreme sound muffler
+falling leaves
+durability tooltip
+skin layers 3d
+configured
+watermedia
+smithing template viewer
+
+creative core
+sodium/embeddium options api
+cloth config api
+konkrete
+iceberg
+prism
+yet another config lib
+groovy mod loader
+super martjn642's config lib
+
+
+server only:
+
+bluemap
+login protection
+too fast
+fast leaf decay
+double doors
+ftb lib
+ftb backups 2
