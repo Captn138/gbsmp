@@ -1,5 +1,20 @@
-# Mods
+# GBSMP
+Modpacks pour le serveur privé GBSMP.
 
+## Installation
+
+1. Télécharge le Technic Launcher : https://www.technicpack.net/download
+2. Place le launcher à un endroit de ton PC où tu ne le supprimeras pas
+3. Lance le launcher
+4. Colle dans la barre de recherche du launcher le lien fourni sur le serveur Discord
+5. Clique sur installer
+6. Lance le pack
+7. Le serveur est déjà préenregistré dans la liste des serveurs
+
+En cas de soucis, contacter @captn138 sur Discord
+
+## Liste des mods
+### Mods
 |Name|Server|Client|
 |---|---	|---|
 |3D Skin Layers|X| |
@@ -113,9 +128,7 @@
 |What Are They Up To|X|X|
 |World Edit| |X|
 
-
-# Libs
-
+### Libs
 |Name|Server|Client|
 |---|---	|---|
 |Architectury|Required for: FTB Library, KubeJS, Light Overlay|Required for: FTB Library, KubeJS|
