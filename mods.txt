@@ -32,6 +32,7 @@ skin layers 3d
 configured
 watermedia
 smithing template viewer
+better ping display
 
 creative core
 sodium/embeddium options api
