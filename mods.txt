@@ -6,7 +6,6 @@ reese's sodium options
 light overlay
 just zoom
 iris shaders
-inventory tweaks
 inventory hud +
 farsight
 dynamic fps
@@ -54,3 +53,5 @@ fast leaf decay
 double doors
 ftb lib
 ftb backups 2
+world edit
+server rules
