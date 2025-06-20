@@ -10,6 +10,7 @@ Modpacks pour le serveur privé GBSMP.
 5. Clique sur installer
 6. Lance le pack
 7. Le serveur est déjà préenregistré dans la liste des serveurs
+8. Pour pouvoir jouer, contacte @captn138 sur Discord pour être ajouté à la liste blanche
 
 En cas de soucis, contacter @captn138 sur Discord
 
