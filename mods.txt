@@ -51,7 +51,7 @@ login protection
 too fast
 fast leaf decay
 double doors
-ftb lib
+ftb essentials
 ftb backups 2
 world edit
 server rules
