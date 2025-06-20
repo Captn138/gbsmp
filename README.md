@@ -127,7 +127,7 @@
 |Corgi Lib|Required for: Enhanced Celestials|Required for: Enhanced Celestials|
 |Coro Util|Required for: What Are They Up To|Required for: What Are They Up To|
 |Creative Core|Required for: Ambient Sounds 6, Water Frames|Required for: What Are They Up To|
-|Cupboard|Required for: Better FPS - Render Distance, GPU Memory Leak Fix| |
+|Cupboard|Required for: Better FPS - Render Distance, Connectivity, GPU Memory Leak Fix, Login Protection|Required for: Connectivity, Login Protection|
 |Curios API|Required for: Charm of Undying, Elytra Slot, Villager Hats|Required for: Charm of Undying, Elytra Slot, Villager Hats|
 |Data Anchor|Required for: Enhanced Celestials|Required for: Enhanced Celestials|
 |Forgified Fabric API|Required for: Ambient Sounds 6, Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, Resourceful Lib, Sodium Dynamic Lights, Water Frames, Yet Another Config Lib|Required for: Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, What Are They Up To, Yet Another Config|
@@ -136,7 +136,7 @@
 |Iceberg|Required for: Legendary Tooltips| |
 |Konkrete|Required for: Just Zoom| |
 |Placebo|Required for: Fast Suite|Required for: Fast Suite|
-|Poly Lib| |Required for: FTB Backups 2|
+|Poly Lib|Required for compatibility|Required for: FTB Backups 2|
 |Prism|Required for: Legendary Tooltips| |
 |Puzzles Lib|Required for: Better Animations Collection, Easy Anvils, Easy Magic, Mob Plaques, Tiny Skeletons, Visual Workbench|Required for: Easy Anvils, Easy Magic, Tiny Skeletons, Visual Workbench|
 |Resourceful Lib|Required for: Chipped, Handcrafted|Required for: Chipped, Handcrafted|
