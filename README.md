@@ -9,7 +9,7 @@ Modpacks pour le serveur privé GBSMP.
 4. Colle dans la barre de recherche du launcher le lien fourni sur le serveur Discord
 5. Clique sur installer
 6. Lance le pack
-7. Le serveur est déjà préenregistré dans la liste des serveurs
+7. Le serveur est déjà préenregistré dans la liste des serveurs et tu peux également t'y connecter directement avec le bouton sur le menu principal
 8. Pour pouvoir jouer, contacte @captn138 sur Discord pour être ajouté à la liste blanche
 
 En cas de soucis, contacter @captn138 sur Discord
@@ -25,9 +25,11 @@ En cas de soucis, contacter @captn138 sur Discord
 |Athena|X||
 |Better Advancements|X| |
 |Better Animations Collection|X| |
+|Better Climbing|X|X|
 |Better Mod List|X| |
 |Better Ping Display|X| |
 |Better Third Person|X| |
+|Better Tridents|X|X|
 |Better F3|X| |
 |Better FPS - Render Distance|X| |
 |Blue Map| |X|
@@ -45,15 +47,19 @@ En cas de soucis, contacter @captn138 sur Discord
 |Cosmetic Armor Reworked|X|X|
 |Crafting Tweaks|X| |
 |Create|X|X|
+|Create Confectionery|X|X|
 |Create: Deep Dark|X|X|
 |Create: Waystones Recipes|X|X|
 |Customizable Player Models|X|X|
+|Cut Through|X| |
+|Dank Storage|X|X|
 |Dark Mode Everywhere|X| |
 |Death Backup| |X|
 |Do a Barrel Roll|X|X|
 |Double Doors| |X|
 |Durability Tooltip|X| |
 |Dynamic FPS|X| |
+|Dynamic View| |X|
 |Easy Anvils|X|X|
 |Easy Magic|X| |
 |Eating Animation|X| |
@@ -63,7 +69,9 @@ En cas de soucis, contacter @captn138 sur Discord
 |Entity Culling|X| |
 |Extreme Sound Muffler|X| |
 |Falling Leaves|X| |
+|Fancy Menu|X| |
 |Fast IP Ping|X|X|
+|Fast Item Frames|X|X|
 |Fast Leaf Decay| |X|
 |Fast Suite|X|X|
 |FTB Backups 2| |X|
@@ -102,11 +110,13 @@ En cas de soucis, contacter @captn138 sur Discord
 |Mouse Tweaks|X| |
 |No Chat Reports|X|X|
 |OpenBlocks Elevator|X|X|
+|Particular Reforged|X| |
 |Pehkui|X|X|
 |Pocket Money|X|X|
 |Reese's Sodium Options|X| |
 |Security Craft|X|X|
 |Simple Voice Chat|X|X|
+|Simplest Paxels|X|X|
 |Simply Light|X|X|
 |Smithing Template Viewer|X| |
 |Smooth Chunk Save|X|X|
@@ -141,18 +151,19 @@ En cas de soucis, contacter @captn138 sur Discord
 |Corgi Lib|Required for: Enhanced Celestials|Required for: Enhanced Celestials|
 |Coro Util|Required for: What Are They Up To|Required for: What Are They Up To|
 |Creative Core|Required for: Ambient Sounds 6, Water Frames|Required for: What Are They Up To|
-|Cupboard|Required for: Better FPS - Render Distance, Connectivity, GPU Memory Leak Fix, Login Protection|Required for: Connectivity, Login Protection|
+|Cupboard|Required for: Better FPS - Render Distance, Connectivity, GPU Memory Leak Fix, Login Protection|Required for: Connectivity, Dynamic View, Login Protection|
 |Curios API|Required for: Charm of Undying, Elytra Slot, Villager Hats|Required for: Charm of Undying, Elytra Slot, Villager Hats|
 |Data Anchor|Required for: Enhanced Celestials|Required for: Enhanced Celestials|
 |Forgified Fabric API|Required for: Ambient Sounds 6, Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, Resourceful Lib, Sodium Dynamic Lights, Water Frames, Yet Another Config Lib|Required for: Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, What Are They Up To, Yet Another Config|
 |FTB Library|Required for compatibility|Required for: FTB Essentials|
 |Groovy Mod Loader|Required for: Eating Animation| |
 |Iceberg|Required for: Legendary Tooltips| |
-|Konkrete|Required for: Just Zoom| |
+|Konkrete|Required for: Fancy Menu, Just Zoom| |
+|Melody|Required for: Fancy Menu| |
 |Placebo|Required for: Fast Suite|Required for: Fast Suite|
 |Poly Lib|Required for compatibility|Required for: FTB Backups 2|
 |Prism|Required for: Legendary Tooltips| |
-|Puzzles Lib|Required for: Better Animations Collection, Easy Anvils, Easy Magic, Mob Plaques, Tiny Skeletons, Visual Workbench|Required for: Easy Anvils, Easy Magic, Tiny Skeletons, Visual Workbench|
+|Puzzles Lib|Required for: Better Animations Collection, Better Tridents, Cut Through, Easy Anvils, Easy Magic, Fast Item Frames, Mob Plaques, Tiny Skeletons, Visual Workbench|Required for: Better Tridents, Easy Anvils, Easy Magic, Fast Item Frames, Tiny Skeletons, Visual Workbench|
 |Resourceful Lib|Required for: Chipped, Handcrafted|Required for: Chipped, Handcrafted|
 |Rhino|Required for: KubeJS|Required for: KubeJS|
 |Sodium Options API|Required for: Sodium| |
