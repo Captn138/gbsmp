@@ -108,6 +108,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Moog's End Structures|X|X|
 |Moog's Nether Structures|X|X|
 |Mouse Tweaks|X| |
+|MrCrayfish's Furniture Mod: Refurbished|X|X|
 |No Chat Reports|X|X|
 |OpenBlocks Elevator|X|X|
 |Particular Reforged|X| |
@@ -115,6 +116,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Pocket Money|X|X|
 |Reese's Sodium Options|X| |
 |Security Craft|X|X|
+|Simple Hats|X|X|
 |Simple Voice Chat|X|X|
 |Simplest Paxels|X|X|
 |Simply Light|X|X|
@@ -142,6 +144,7 @@ En cas de soucis, contacter @captn138 sur Discord
 ### Libs
 |Name|Server|Client|
 |---|---	|---|
+|Accessories|Required for: Simple Hats|Required for: Simple Hats|
 |Architectury|Required for: FTB Library, KubeJS, Light Overlay|Required for: FTB Library, KubeJS|
 |Balm|Required for: Crafting Tweaks, Trash Slot|Required for: Trash Cans|
 |Caelus API|Required for: Elytra Slot|Required for: Elytra Slot|
@@ -160,6 +163,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Iceberg|Required for: Legendary Tooltips| |
 |Konkrete|Required for: Fancy Menu, Just Zoom| |
 |Melody|Required for: Fancy Menu| |
+|OWO Lib|Required for: Simple Hats|Required for: Simple Hats|
 |Placebo|Required for: Fast Suite|Required for: Fast Suite|
 |Poly Lib|Required for compatibility|Required for: FTB Backups 2|
 |Prism|Required for: Legendary Tooltips| |
