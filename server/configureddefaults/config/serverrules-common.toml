@@ -3,13 +3,11 @@ serverRules = [
 "Les règles de bienséances habituelles sont de mise :",
 "- Les comportements déplacés et anti-jeu ne sont pas tolérés",
 "- Le grief des espaces privés et publics n'est pas toléré",
-"- Ne construis pas ton habitation sur l'île de départ",
+"- Ne construis pas ton habitation sur l'île de départ, elle est réservée pour faire une ville commerciale",
+"- Amuse-toi, pranke tes amis si tu le veux, mais jamais dans un esprit de destruction",
 "",
-"Quelques spécificités sont à prendre en compte :",
-"- Nether et End désactivés",
-"- Worldborder à 10 000 blocs",
+"Tu devrais VRAIMENT lire les nombreux tips disponibles ici : https://github.com/Captn138/gbsmp/blob/main/TIPS.md",
+"N'hésite pas à jeter un oeil aux mods du pack, la liste est disponible ici : https://github.com/Captn138/gbsmp/blob/main/README.md",
 "",
-"Une commande /tpa est disponible pour te téléporter à tes amis.",
-"Un système d'économie existe pour le échanges entre joueurs et récupération d'objets inaccessibles.",
-"N'hésite pas à jeter un oeil aux mods du pack, la liste est disponible ici : https://github.com/Captn138/gbsmp/blob/main/README.md"
+"En cas de soucis, contacte @captn138 sur Discord"
 ]

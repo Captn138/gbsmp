@@ -47,9 +47,13 @@ En cas de soucis, contacter @captn138 sur Discord
 |Cosmetic Armor Reworked|X|X|
 |Crafting Tweaks|X| |
 |Create|X|X|
+|Create Better FPS|X| |
 |Create Confectionery|X|X|
+|Create: Cheese Factory|X|X|
+|Create: Copycats+|X|X|
 |Create: Deep Dark|X|X|
 |Create: Waystones Recipes|X|X|
+|Create: Winery|X|X|
 |Customizable Player Models|X|X|
 |Cut Through|X| |
 |Dank Storage|X|X|
@@ -127,6 +131,8 @@ En cas de soucis, contacter @captn138 sur Discord
 |Sophisticated Backpacks|X|X|
 |Sound Physics Remastered|X| |
 |Spark|X|X|
+|Supplementaries|X|X|
+|Supplementaries Squared|X|X|
 |Tiny Coal|X|X|
 |Tiny Skeletons|X|X|
 |Too Fast| |X|
@@ -163,6 +169,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Iceberg|Required for: Legendary Tooltips| |
 |Konkrete|Required for: Fancy Menu, Just Zoom| |
 |Melody|Required for: Fancy Menu| |
+|Moonlight Lib|Required for: Supplementaries, Supplementaries Squared|Required for: Supplementaries, Supplementaries Squared|
 |OWO Lib|Required for: Simple Hats|Required for: Simple Hats|
 |Placebo|Required for: Fast Suite|Required for: Fast Suite|
 |Poly Lib|Required for compatibility|Required for: FTB Backups 2|
