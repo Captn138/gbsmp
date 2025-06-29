@@ -59,6 +59,9 @@ En cas de soucis, contacter @captn138 sur Discord
 |Dank Storage|X|X|
 |Dark Mode Everywhere|X| |
 |Death Backup| |X|
+|Diagonal Walls|X|X|
+|Diagonal Windows|X|X|
+|Diagonal Fences|X|X|
 |Do a Barrel Roll|X|X|
 |Double Doors| |X|
 |Durability Tooltip|X| |
@@ -131,6 +134,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Sophisticated Backpacks|X|X|
 |Sound Physics Remastered|X| |
 |Spark|X|X|
+|Straw Statues|X|X|
 |Supplementaries|X|X|
 |Supplementaries Squared|X|X|
 |Tiny Coal|X|X|
@@ -174,7 +178,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Placebo|Required for: Fast Suite|Required for: Fast Suite|
 |Poly Lib|Required for compatibility|Required for: FTB Backups 2|
 |Prism|Required for: Legendary Tooltips| |
-|Puzzles Lib|Required for: Better Animations Collection, Better Tridents, Cut Through, Easy Anvils, Easy Magic, Fast Item Frames, Mob Plaques, Tiny Skeletons, Visual Workbench|Required for: Better Tridents, Easy Anvils, Easy Magic, Fast Item Frames, Tiny Skeletons, Visual Workbench|
+|Puzzles Lib|Required for: Better Animations Collection, Better Tridents, Cut Through, Diagonal Fences, Diagonal Walls, Diagonal Windows, Easy Anvils, Easy Magic, Fast Item Frames, Mob Plaques, Straw Statues, Tiny Skeletons, Visual Workbench|Required for: Better Tridents, Diagonal Fences, Diagonal Walls, Diagonal Windows, Easy Anvils, Easy Magic, Fast Item Frames, Straw Statues, Tiny Skeletons, Visual Workbench|
 |Resourceful Lib|Required for: Chipped, Handcrafted|Required for: Chipped, Handcrafted|
 |Rhino|Required for: KubeJS|Required for: KubeJS|
 |Sodium Options API|Required for: Sodium| |
