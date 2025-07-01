@@ -1,5 +1,17 @@
 ServerEvents.recipes(event => {
     event.shaped(
+            Item.of('minecraft:elytra'),
+            [
+                    'AAA',
+                    'ABA',
+                    'A A'
+            ],
+            {
+                    A: 'minecraft:phantom_membrane',
+                    B: 'minecraft:nether_star'
+            }
+    )
+    event.shaped(
             Item.of('kubejs:light_block', 4),
             [
                     ' A ',

@@ -82,7 +82,9 @@ En cas de soucis, contacter @captn138 sur Discord
 |Fast Leaf Decay| |X|
 |Fast Suite|X|X|
 |FTB Backups 2| |X|
+|FTB Chunks| |X|
 |FTB Essentials| |X|
+|FTB Teams| |X|
 |Functional Storage|X|X|
 |GPU Memory Leak Fix|X| |
 |Handcrafted|X|X|
@@ -120,7 +122,6 @@ En cas de soucis, contacter @captn138 sur Discord
 |OpenBlocks Elevator|X|X|
 |Particular Reforged|X| |
 |Pehkui|X|X|
-|Pocket Money|X|X|
 |Reese's Sodium Options|X| |
 |Security Craft|X|X|
 |Simple Hats|X|X|
@@ -168,7 +169,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Curios API|Required for: Charm of Undying, Elytra Slot, Villager Hats|Required for: Charm of Undying, Elytra Slot, Villager Hats|
 |Data Anchor|Required for: Enhanced Celestials|Required for: Enhanced Celestials|
 |Forgified Fabric API|Required for: Ambient Sounds 6, Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, Resourceful Lib, Sodium Dynamic Lights, Water Frames, Yet Another Config Lib|Required for: Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, What Are They Up To, Yet Another Config|
-|FTB Library|Required for compatibility|Required for: FTB Essentials|
+|FTB Library|Required for compatibility|Required for: FTB Chunks, FTB Essentials, FTB Teams|
 |Groovy Mod Loader|Required for: Eating Animation| |
 |Iceberg|Required for: Legendary Tooltips| |
 |Konkrete|Required for: Fancy Menu, Just Zoom| |
