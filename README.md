@@ -119,6 +119,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Moog's Nether Structures|X|X|
 |Mouse Tweaks|X| |
 |MrCrayfish's Furniture Mod: Refurbished|X|X|
+|NeoMopeds|X|X|
 |No Chat Reports|X|X|
 |OpenBlocks Elevator|X|X|
 |Particular Reforged|X| |
@@ -171,6 +172,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Data Anchor|Required for: Enhanced Celestials|Required for: Enhanced Celestials|
 |Forgified Fabric API|Required for: Ambient Sounds 6, Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, Resourceful Lib, Sodium Dynamic Lights, Water Frames, Yet Another Config Lib|Required for: Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, What Are They Up To, Yet Another Config|
 |FTB Library|Required for compatibility|Required for: FTB Chunks, FTB Essentials, FTB Teams|
+|Gecko Lib|Required for: NeoMopeds|Required for: NeoMopeds|
 |Groovy Mod Loader|Required for: Eating Animation| |
 |Iceberg|Required for: Legendary Tooltips| |
 |Konkrete|Required for: Fancy Menu, Just Zoom| |
