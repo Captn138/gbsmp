@@ -51,6 +51,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Create Confectionery|X|X|
 |Create: Cheese Factory|X|X|
 |Create: Copycats+|X|X|
+|Create: Craftable Diamonds|X|X|
 |Create: Deep Dark|X|X|
 |Create: Waystones Recipes|X|X|
 |Create: Winery|X|X|
