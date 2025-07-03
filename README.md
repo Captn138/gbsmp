@@ -171,6 +171,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Curios API|Required for: Charm of Undying, Elytra Slot, Villager Hats|Required for: Charm of Undying, Elytra Slot, Villager Hats|
 |Data Anchor|Required for: Enhanced Celestials|Required for: Enhanced Celestials|
 |Forgified Fabric API|Required for: Ambient Sounds 6, Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, Resourceful Lib, Sodium Dynamic Lights, Water Frames, Yet Another Config Lib|Required for: Athena, Chipped, Comforts, Do a Barrel Roll, Handcrafted, Pehkui, Puzzles Lib, What Are They Up To, Yet Another Config|
+|Framework|Required for: MrCrayfish's Furniture Mod: Refurbished|Required for: MrCrayfish's Furniture Mod: Refurbished|
 |FTB Library|Required for compatibility|Required for: FTB Chunks, FTB Essentials, FTB Teams|
 |Gecko Lib|Required for: NeoMopeds|Required for: NeoMopeds|
 |Groovy Mod Loader|Required for: Eating Animation| |
