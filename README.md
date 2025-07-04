@@ -63,6 +63,7 @@ En cas de soucis, contacter @captn138 sur Discord
 |Diagonal Walls|X|X|
 |Diagonal Windows|X|X|
 |Diagonal Fences|X|X|
+|Distant Horizons|X|X|
 |Do a Barrel Roll|X|X|
 |Double Doors| |X|
 |Durability Tooltip|X| |
